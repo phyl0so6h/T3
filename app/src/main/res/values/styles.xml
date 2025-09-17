@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNav.ActiveIndicator" parent="">
+        <item name="android:color">@color/login_field_bg</item>
+        <item name="android:width">72dp</item>
+        <item name="android:height">40dp</item>
+        <item name="android:insetLeft">16dp</item>
+        <item name="android:insetRight">16dp</item>
+        <item name="android:insetTop">8dp</item>
+        <item name="android:insetBottom">8dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Round24</item>
+    </style>
+
+    <style name="ShapeAppearance.Round24" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+</resources>
+

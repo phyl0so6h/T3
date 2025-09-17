@@ -1,0 +1,9 @@
+com.sahak7an.t3.feature.home
+drawable ic_filter_24
+drawable ic_search_24
+id button_sort
+id edit_search
+id error_text
+id recycler
+id swipe
+layout fragment_home

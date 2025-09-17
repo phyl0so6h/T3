@@ -1,0 +1,9 @@
+com.sahak7an.t3.feature.login
+id button_login
+id button_ok
+id button_vk
+id edit_email
+id edit_password
+id title
+layout fragment_account_stub
+layout fragment_login

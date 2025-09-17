@@ -1,0 +1,16 @@
+com.sahak7an.t3.core.ui
+drawable bg_banner_rounded
+drawable bg_chip_dark
+drawable ic_bookmark_filled_green_24
+drawable ic_bookmark_outline_24
+drawable ic_star_16
+id banner
+id description
+id details
+id like
+id price
+id rate
+id rateChip
+id startDate
+id title
+layout item_course

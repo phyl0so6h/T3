@@ -1,0 +1,3 @@
+com.sahak7an.t3.feature.favorites
+id recyclerView
+layout fragment_favorites
